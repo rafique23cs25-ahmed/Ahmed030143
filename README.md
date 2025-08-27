@@ -1,5 +1,6 @@
-# Ahmed030143
-My GitHub Profile
+## 📊 GitHub Stats
+![Rafique's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqueahmed&show_icons=true&theme=tokyonight)
+
 # 👋 Hi, I'm Rafique Ahmed  
 
 🎓 Student at **BBSUTSD Khairpur Mirs**  
