@@ -19,15 +19,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafique23cs25-ahmed&layout=compact&theme=tokyonight)  
 
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=rafique23cs25-ahmed&theme=tokyonight&hide_border=true)
 
 
 ---
 
 ## 🔗 Connect with Me  
-- 📧 Email: your-email@example.com  
+- 📧 Email: rafiqueahmedbhayo311@gmail.com
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
 - 🌐 Portfolio: (optional if you have one)  
