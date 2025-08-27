@@ -21,8 +21,9 @@
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafique23cs25-ahmed&theme=tokyonight&hide_border=true)  
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=rafique23cs25-ahmed&theme=tokyonight&hide_border=true)
+
 
 ---
 
