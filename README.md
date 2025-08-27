@@ -1,10 +1,3 @@
-## 📊 GitHub Stats
-![Rafique's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafique23cs25-ahmed&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafique23cs25-ahmed&layout=compact&theme=tokyonight)
-
-
-
 # 👋 Hi, I'm Rafique Ahmed  
 
 🎓 Student at **BBSUTSD Khairpur Mirs**  
@@ -22,7 +15,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rafique's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Rafique's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafique23cs25-ahmed&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafique23cs25-ahmed&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafique23cs25-ahmed&theme=tokyonight&hide_border=true)  
 
 ---
 
@@ -30,5 +30,3 @@
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
 - 🌐 Portfolio: (optional if you have one)  
-
-
