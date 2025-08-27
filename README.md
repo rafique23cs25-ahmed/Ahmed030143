@@ -3,8 +3,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafique23cs25-ahmed&layout=compact&theme=tokyonight)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rafique23cs25-ahmed&theme=tokyonight&hide_border=true)
 
 
 # 👋 Hi, I'm Rafique Ahmed  
